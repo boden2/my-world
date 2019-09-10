@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am boden2 on github.
+  * I am boden2 (https://keybase.io/boden2) on keybase.
+  * I have a public key ASBeG2dycgSt8PZWUqDH0EJL-K03Gs0b-4AoCZ1Seuexkgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e1b67727204adf0f65652a0c7d0424bf8ad371acd1bfb8028099d527ae7b1920a",
+      "host": "keybase.io",
+      "kid": "01205e1b67727204adf0f65652a0c7d0424bf8ad371acd1bfb8028099d527ae7b1920a",
+      "uid": "16d6d2f56391404fc07efaf49e3a9319",
+      "username": "boden2"
+    },
+    "merkle_root": {
+      "ctime": 1568088752,
+      "hash": "a1ff73a982a83b2af5a1f6e939c9d887c6f70f20969b6dd31f10d79fb03dfddf982831260b022ced51b707226ed8cabe2840a3d9aef8db5e94569ad872db2b0c",
+      "hash_meta": "eb88df27e0e3eacdf885688724a17e1f433acfbeb628b7fbf84ef3ca77fc58fe",
+      "seqno": 6308793
+    },
+    "service": {
+      "entropy": "YqH8elFWQr4t2O8+nlKvRx8F",
+      "name": "github",
+      "username": "boden2"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568088763,
+  "expire_in": 504576000,
+  "prev": "eb1da38faf5e09fa0d67f97193387f5985fbcd03a3734b962dac3cf4ffed99ba",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASBeG2dycgSt8PZWUqDH0EJL-K03Gs0b-4AoCZ1Seuexkgo](https://keybase.io/boden2), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXhtncnIErfD2VlKgx9BCS/itNxrNG/uAKAmdUnrnsZIKp3BheWxvYWTESpcCCMQg6x2jj69eCfoNZ/lxkzh/WYX7zQOjc0uWLaw89P/tmbrEIDa7Yj6amreDAzxgGpqbXneMEmjHkJXt7Jsx2CWy7eYvAgHCo3NpZ8RAdWZYI0horPebbZLEH1vP5jDh/EC61/nat0R/Eanjvytjw/B5mv5HeKfW2HBbTbc19sbzAdlfDDl6W4v/zklzBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIABpZAg8ZP+M0z41ay5a9UmwqAnjcZreCA46C2Uz6Effo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/boden2
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id boden2
+```
